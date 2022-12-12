@@ -1,7 +1,7 @@
-# Documento di esempio - Docs Italia
+# Framework per le competenze digitali della Commissione Europea - Docs Italia
 
-Descrizione scopo del documento.
-
+Traduzione in italiano su Docs Italia del framework per le competenze digitali della Commissione Europea (DigComp)
+ 
 # Dipendenze
 
 Il repository è strutturato per essere compatibile con la piattaforma [Docs
